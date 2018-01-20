@@ -1,0 +1,23 @@
+c:\users\hossein\documents\visual studio 2015\Projects\firstversion\firstversion\bin\Debug\firstversion.exe.config
+c:\users\hossein\documents\visual studio 2015\Projects\firstversion\firstversion\bin\Debug\firstversion.exe
+c:\users\hossein\documents\visual studio 2015\Projects\firstversion\firstversion\bin\Debug\firstversion.pdb
+c:\users\hossein\documents\visual studio 2015\Projects\firstversion\firstversion\obj\Debug\firstversion.csprojResolveAssemblyReference.cache
+c:\users\hossein\documents\visual studio 2015\Projects\firstversion\firstversion\obj\Debug\MainWindow.g.cs
+c:\users\hossein\documents\visual studio 2015\Projects\firstversion\firstversion\obj\Debug\App.g.cs
+c:\users\hossein\documents\visual studio 2015\Projects\firstversion\firstversion\obj\Debug\firstversion_MarkupCompile.cache
+c:\users\hossein\documents\visual studio 2015\Projects\firstversion\firstversion\obj\Debug\firstversion_MarkupCompile.lref
+c:\users\hossein\documents\visual studio 2015\Projects\firstversion\firstversion\obj\Debug\MainWindow.baml
+c:\users\hossein\documents\visual studio 2015\Projects\firstversion\firstversion\obj\Debug\firstversion.g.resources
+c:\users\hossein\documents\visual studio 2015\Projects\firstversion\firstversion\obj\Debug\firstversion.Properties.Resources.resources
+c:\users\hossein\documents\visual studio 2015\Projects\firstversion\firstversion\obj\Debug\firstversion.csproj.GenerateResource.Cache
+c:\users\hossein\documents\visual studio 2015\Projects\firstversion\firstversion\obj\Debug\firstversion.exe
+c:\users\hossein\documents\visual studio 2015\Projects\firstversion\firstversion\obj\Debug\firstversion.pdb
+C:\Users\Hossein\documents\visual studio 2015\Projects\firstversion\firstversion\bin\Debug\Microsoft.Windows.Shell.dll
+C:\Users\Hossein\documents\visual studio 2015\Projects\firstversion\firstversion\bin\Debug\RibbonControlsLibrary.dll
+C:\Users\Hossein\documents\visual studio 2015\Projects\firstversion\firstversion\bin\Debug\Microsoft.Windows.Shell.pdb
+C:\Users\Hossein\documents\visual studio 2015\Projects\firstversion\firstversion\bin\Debug\Microsoft.Windows.Shell.xml
+C:\Users\Hossein\documents\visual studio 2015\Projects\firstversion\firstversion\bin\Debug\RibbonControlsLibrary.pdb
+C:\Users\Hossein\documents\visual studio 2015\Projects\firstversion\firstversion\bin\Debug\RibbonControlsLibrary.xml
+C:\Users\Hossein\Source\Repos\WPF-c-\firstversion\firstversion\bin\Debug\firstversion.exe.config
+C:\Users\Hossein\Source\Repos\WPF-c-\firstversion\firstversion\obj\Debug\firstversion.exe
+C:\Users\Hossein\Source\Repos\WPF-c-\firstversion\firstversion\obj\Debug\firstversion.pdb
